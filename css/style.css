@@ -1,0 +1,21 @@
+a[href*="https"] {
+  color: red;
+}
+.holder > p {
+  font-size: 24px;
+}
+:root {
+  --blue-color: #2196f3;
+}
+:root {
+  --grey-color: #757575;
+}
+:root {
+  --black-color: #212121;
+}
+:root {
+  --white-color: #ffff;
+}
+:root {
+  --dark-blue-color: #2f303a;
+}
